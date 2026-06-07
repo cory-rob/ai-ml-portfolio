@@ -1,17 +1,20 @@
 # AI/ML Portfolio
 
-AI/ML professional with 6 years of experience in machine learning, data analysis, and software development. Skilled in Python, SQL, TensorFlow, PyTorch, NLP, computer vision, multimodal annotation, LLM evaluation, and intelligent application development.
+Hi, I’m Cory Robinson, an AI/ML professional with 6 years of experience in machine learning, data analysis, and software development. I build practical AI solutions using Python, SQL, R, TensorFlow, and PyTorch, with experience in NLP, computer vision, multimodal annotation, AI training, and LLM evaluation.
 
 ## Professional Summary
 
-I build practical AI solutions and support model improvement through data analysis, AI training, structured evaluation, and annotation workflows. My experience includes predictive modeling that improved efficiency by 25%, LLM testing and refinement, and chatbot development using Python and Rasa.
+I have worked across machine learning, analytics, and intelligent application development, including predictive modeling that improved efficiency by 25%. My background also includes refining and evaluating Large Language Models, high-quality data labeling, multimodal annotation, and analyzing model outputs to improve accuracy and consistency.
 
 ## Core Skills
+
 - Python
 - SQL
 - R
 - TensorFlow
 - PyTorch
+- Machine Learning
+- Data Analysis
 - Natural Language Processing
 - Computer Vision
 - LLM Evaluation
@@ -21,73 +24,41 @@ I build practical AI solutions and support model improvement through data analys
 - Data Visualization
 - JSON
 - YAML
-# AI/ML Portfolio
-
-## Featured Project
-### AI-Powered Chatbot
-Developed an AI-powered chatbot using Python, NLP techniques, and the Rasa framework to assist customers with inquiries and improve response accuracy.
 
 ## Experience Highlights
-- AI Trainer / Data Labeling Specialist at Handshake
-- Senior Data Analyst at Google Cloud
 
-## Certifications
-- TensorFlow Development Certificate
-- Microsoft Certified: Azure AI Engineer Associate
-
-## Education
-Master’s Degree in Artificial Intelligence  
-Redlands University, CA
-
-## Contact
-- GitHub: https://github.com/cory-rob
-- LinkedIn: https://www.linkedin.com/in/cory-robinson-03368740b
-# AI/ML Portfolio
-
-Portfolio of AI and machine learning projects in Python, including NLP, data analysis, and intelligent application development.
-
-## About Me
-Results-driven AI and data professional with experience in machine learning, data analysis, AI training, data labeling, and software development. Skilled in Python, SQL, TensorFlow, PyTorch, NLP, computer vision, multimodal annotation, and data visualization.
-
-## Technical Skills
-- Python
-- SQL
-- TensorFlow
-- PyTorch
-- NLP
-- Computer Vision
-- Data Visualization
-- JSON
-- YAML
-- AI Training
-- Data Labeling
-- Multimodal Annotation
+- 6 years of experience in machine learning, data analysis, and software development
+- Built predictive models that improved efficiency by 25%
+- Supported LLM refinement, testing, and evaluation
+- Performed data labeling and multimodal annotation to improve model accuracy
+- Analyzed structured data and model outputs to identify inconsistencies and opportunities for improvement
+- Collaborated with cross-functional teams to solve ambiguous problems and deliver effective solutions
 
 ## Featured Project
-### AI-Powered Chatbot
-AI-powered customer support chatbot developed using Python, NLP techniques, and the Rasa framework to improve user interaction and response accuracy.
 
-## Certifications
-- TensorFlow Development Certificate
-- Microsoft Certified: Azure AI Engineer Associate
+### AI-Powered Chatbot
+
+Developed an AI-powered chatbot using Python, NLP techniques, and the Rasa framework to assist customers with inquiries and improve response accuracy.
+
+**Skills demonstrated:**
+- Python
+- Rasa
+- NLP
+- Conversational AI
+- User interaction design
 
 ## Education
+
 Master’s Degree in Artificial Intelligence  
-Redlands University, CA
+Redlands University, CA, USA
 
-## Contact
-- Email: zmax3650@gmail.com
-- LinkedIn: www.linkedin.com/in/cory-robinson-03368740b
-- GitHub: https://github.com/cory-rob
-Core Skills
-- Python, SQL, R
-- TensorFlow, PyTorch
-- NLP, computer vision
-- LLM evaluation
-- AI training and data labeling
-- Multimodal annotation
-- Data visualization
+## Certifications
 
-Certifications
 - TensorFlow Development Certificate
 - Microsoft Certified: Azure AI Engineer Associate
+
+## Contact
+
+- Email: zmax3650@gmail.com
+- LinkedIn: https://www.linkedin.com/in/cory-robinson-03368740b
+- GitHub: https://github.com/cory-rob
