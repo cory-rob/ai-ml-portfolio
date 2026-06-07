@@ -1,23 +1,27 @@
 # AI/ML Portfolio
 
-AI and machine learning portfolio showcasing projects and experience in Python, SQL, TensorFlow, PyTorch, NLP, computer vision, data labeling, multimodal annotation, and intelligent application development.
+AI/ML professional with 6 years of experience in machine learning, data analysis, and software development. Skilled in Python, SQL, TensorFlow, PyTorch, NLP, computer vision, multimodal annotation, LLM evaluation, and intelligent application development.
 
 ## Professional Summary
-Results-driven AI and data professional with 6 years of experience in machine learning, data analysis, and software development. Experienced in AI training, LLM evaluation, structured data analysis, and building intelligent applications.
+
+I build practical AI solutions and support model improvement through data analysis, AI training, structured evaluation, and annotation workflows. My experience includes predictive modeling that improved efficiency by 25%, LLM testing and refinement, and chatbot development using Python and Rasa.
 
 ## Core Skills
 - Python
 - SQL
+- R
 - TensorFlow
 - PyTorch
 - Natural Language Processing
 - Computer Vision
-- Data Visualization
+- LLM Evaluation
 - AI Training
 - Data Labeling
 - Multimodal Annotation
+- Data Visualization
 - JSON
 - YAML
+# AI/ML Portfolio
 
 ## Featured Project
 ### AI-Powered Chatbot
@@ -73,3 +77,17 @@ Redlands University, CA
 
 ## Contact
 - Email: zmax3650@gmail.com
+- LinkedIn: www.linkedin.com/in/cory-robinson-03368740b
+- GitHub: https://github.com/cory-rob
+Core Skills
+- Python, SQL, R
+- TensorFlow, PyTorch
+- NLP, computer vision
+- LLM evaluation
+- AI training and data labeling
+- Multimodal annotation
+- Data visualization
+
+Certifications
+- TensorFlow Development Certificate
+- Microsoft Certified: Azure AI Engineer Associate
