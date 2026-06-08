@@ -34,7 +34,18 @@ I have worked across machine learning, analytics, and intelligent application de
 - Analyzed structured data and model outputs to identify inconsistencies and opportunities for improvement
 - Collaborated with cross-functional teams to solve ambiguous problems and deliver effective solutions
 
-## Featured Project
+## Featured Projects
+
+### [LLM Evaluation Case Study](./llm-evaluation-case-study.md)
+- Evaluated model outputs for quality, consistency, and plausibility
+- Supported LLM refinement through annotation and output analysis
+
+### [AI-Powered Chatbot](./rasa-chatbot-project.md)
+- Built with Python, NLP, and Rasa
+- Designed to improve response accuracy for customer inquiries fileciteturn0file0
+
+### [Sample Conversation](./sample-conversation.md)
+- Demonstrates example user-assistant interaction flow
 
 ### AI-Powered Chatbot
 
