@@ -47,9 +47,6 @@ I have worked across machine learning, analytics, and intelligent application de
 ### [Sample Conversation](./sample-conversation.md)
 - Demonstrates example user-assistant interaction flow
 
-### AI-Powered Chatbot
-
-Developed an AI-powered chatbot using Python, NLP techniques, and the Rasa framework to assist customers with inquiries and improve response accuracy.
 
 **Skills demonstrated:**
 - Python
