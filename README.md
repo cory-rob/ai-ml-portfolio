@@ -42,10 +42,10 @@ I have worked across machine learning, analytics, and intelligent application de
 
 ### [AI-Powered Chatbot](./rasa-chatbot-project.md)
 - Built with Python, NLP, and Rasa
-- Designed to improve response accuracy for customer inquiries fileciteturn0file0
+- Designed to improve response accuracy for customer inquiries 
 
 ### [Sample Conversation](./sample-conversation.md)
-- Demonstrates example user-assistant interaction flow
+- Demonstrates example chatbot interaction flow
 
 
 **Skills demonstrated:**
