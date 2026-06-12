@@ -1,4 +1,6 @@
 # Rasa Chatbot Project
+## Sample Conversation
+See [Sample Conversation](../chatbot-sample-conversation.md) for an example chatbot interaction.
 
 ## Objective
 Develop an AI-powered chatbot to handle user questions and provide automated conversational support.
