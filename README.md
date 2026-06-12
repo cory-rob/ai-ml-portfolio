@@ -67,7 +67,7 @@ I have worked across machine learning, analytics, and intelligent application de
 
 ## Education
 
-Master’s Degree in Artificial Intelligence  
+M.S. in Artificial Intelligence  
 Redlands University, CA, USA
 
 ## Certifications
