@@ -6,6 +6,12 @@ Hi, I’m Cory Robinson, an AI/ML professional with 6 years of experience in mac
 
 I have worked across machine learning, analytics, and intelligent application development, including predictive modeling that improved efficiency by 25%. My background also includes refining and evaluating Large Language Models, high-quality data labeling, multimodal annotation, and analyzing model outputs to improve accuracy and consistency.
 
+## Featured Projects
+
+- [Predictive Modeling](./predictive-modeling/README.md)
+- [LLM Evaluation Analysis](./llm-evaluation-analysis/README.md)
+- [Rasa Chatbot Project](./rasa-chatbot/README.md)
+
 ## Core Skills
 
 - Python
