@@ -35,6 +35,10 @@ I have worked across machine learning, analytics, and intelligent application de
 - Collaborated with cross-functional teams to solve ambiguous problems and deliver effective solutions
 
 ## Featured Projects
+- [Predictive Modeling](./predictive-modeling/README.md)
+- [LLM Evaluation Analysis](./llm-evaluation-analysis/README.md)
+- [Rasa Chatbot Project](./rasa-chatbot/README.md)
+
 
 ### [LLM Evaluation Case Study](./llm-evaluation-case-study.md)
 - Evaluated model outputs for quality, consistency, and plausibility
