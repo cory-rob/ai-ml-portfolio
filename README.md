@@ -1,10 +1,18 @@
 # AI/ML Portfolio
 
-Hi, I’m Cory Robinson, an AI/ML professional with 6 years of experience in machine learning, data analysis, and software development. I build practical AI solutions using Python, SQL, R, TensorFlow, and PyTorch, with experience in NLP, computer vision, multimodal annotation, AI training, and LLM evaluation.
+Hi, I’m Cory Robinson, an AI/ML professional with 6 years of experience in machine learning, data analysis, NLP, multimodal annotation, AI training, and LLM evaluation. I build practical AI solutions using Python, SQL, R, TensorFlow, and PyTorch.
+
 
 ## Professional Summary
 
 I have worked across machine learning, analytics, and intelligent application development, including predictive modeling that improved efficiency by 25%. My background also includes refining and evaluating Large Language Models, high-quality data labeling, multimodal annotation, and analyzing model outputs to improve accuracy and consistency.
+
+## Tools & Skills
+
+- Python, SQL, R
+- TensorFlow, PyTorch, Scikit-learn
+- NLP, LLM Evaluation, Data Labeling
+- Predictive Modeling, Data Analysis, Multimodal Annotation
 
 ## Featured Projects
 
