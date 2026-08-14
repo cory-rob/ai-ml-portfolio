@@ -1,28 +1,31 @@
-# Rasa Chatbot Project
+# AI-Powered Chatbot
 
+This project showcases an AI-powered chatbot built using Python and the Rasa framework to assist users with inquiries through Natural Language Processing.
 
 ## Objective
-Develop an AI-powered chatbot to handle user questions and provide automated conversational support.
+Improve user interaction and response accuracy through a practical conversational AI solution.
 
 ## Tools
-Python, Rasa, NLP
+- Python
+- Rasa
+- NLP
 
 ## Approach
-- Designed intents and responses
-- Structured conversation flows
-- Tested user interactions
-- Refined chatbot behavior based on sample conversations
+- Designed a chatbot to handle user inquiries
+- Applied NLP techniques to interpret user input
+- Used the Rasa framework to structure conversations and generate responses
+- Focused on improving interaction quality and response relevance
 
 ## Results
-Built a chatbot project demonstrating conversational AI and natural language processing skills.
+- Demonstrates practical NLP application
+- Shows experience building intelligent customer-facing solutions
+- Reflects chatbot development skills using Python and Rasa
 
-## Next Steps
-- Expand intents and training data
-- Improve fallback handling
-- Deploy as a web demo
-  
-## Sample Conversation
-See [Sample Conversation](./chatbot-sample-conversation.md) for an example chatbot interaction.
+## Relevance
+This project aligns with my background in AI/ML, software development, and intelligent applications. It reflects my experience developing an AI-powered chatbot using Python and Rasa to enhance user interaction and response accuracy.
 
-## Sample Conversation
-See [Sample Conversation](./chatbot-sample-conversation.md)
+## Future Improvements
+- Add more intents and entities
+- Improve dialogue flow
+- Connect to a web interface or API
+- Add analytics for chatbot performance
